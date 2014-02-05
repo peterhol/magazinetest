@@ -1,0 +1,4 @@
+magazinetest
+============
+
+test for tekst.
